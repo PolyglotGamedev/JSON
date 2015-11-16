@@ -1,0 +1,2568 @@
+{
+    "resources": {
+        "polyglot": {
+            "LANG": "Hebrew",
+            "DIRECTION": "rtl",
+            "VERSION": "100",
+            "DATE": "2015-11-16"
+        },
+        "data": [
+            {
+                "n": "CONTEXT_CHARACTER_CLASS",
+                "s": "טיפוס"
+            },
+            {
+                "n": "CONTEXT_CHARACTER_DELETE",
+                "s": "למחוק דמות"
+            },
+            {
+                "n": "CONTEXT_CHARACTER_NEW",
+                "s": "דמות חדשה"
+            },
+            {
+                "n": "CONTEXT_CLASS_AI",
+                "s": "בינה-מלאכותית"
+            },
+            {
+                "n": "CONTEXT_CLASS_ALIEN",
+                "s": "חייזר"
+            },
+            {
+                "n": "CONTEXT_CLASS_CLONE",
+                "s": "כפיל"
+            },
+            {
+                "n": "CONTEXT_CLASS_CYBORG",
+                "s": "אדם-מכונה"
+            },
+            {
+                "n": "CONTEXT_CLASS_DEITY",
+                "s": "ישות"
+            },
+            {
+                "n": "CONTEXT_CLASS_DEMON",
+                "s": "שד"
+            },
+            {
+                "n": "CONTEXT_CLASS_DEMONNESS",
+                "s": "שדה"
+            },
+            {
+                "n": "CONTEXT_CLASS_DRAGON",
+                "s": "דרקון"
+            },
+            {
+                "n": "CONTEXT_CLASS_DRAGON_PLURAL",
+                "s": "דרקונים"
+            },
+            {
+                "n": "CONTEXT_CLASS_GHOST",
+                "s": "רוח-רפאים"
+            },
+            {
+                "n": "CONTEXT_CLASS_GOD",
+                "s": "אל"
+            },
+            {
+                "n": "CONTEXT_CLASS_GOD_PLURAL",
+                "s": "אלילים"
+            },
+            {
+                "n": "CONTEXT_CLASS_GODDESS",
+                "s": "אלילה"
+            },
+            {
+                "n": "CONTEXT_CLASS_MAGE",
+                "s": "קוסם"
+            },
+            {
+                "n": "CONTEXT_CLASS_MEDIC",
+                "s": "חובש"
+            },
+            {
+                "n": "CONTEXT_CLASS_MONSTER",
+                "s": "מפלצת"
+            },
+            {
+                "n": "CONTEXT_CLASS_NINJA",
+                "s": "נינג'ה"
+            },
+            {
+                "n": "CONTEXT_CLASS_PIRATE",
+                "s": "פיראט"
+            },
+            {
+                "n": "CONTEXT_CLASS_PRIEST",
+                "s": "כומר"
+            },
+            {
+                "n": "CONTEXT_CLASS_PRINCE",
+                "s": "נסיך"
+            },
+            {
+                "n": "CONTEXT_CLASS_PRINCESS",
+                "s": "נסיכה"
+            },
+            {
+                "n": "CONTEXT_CLASS_ROBOT",
+                "s": "רובוט"
+            },
+            {
+                "n": "CONTEXT_CLASS_SKELETON",
+                "s": "שלד"
+            },
+            {
+                "n": "CONTEXT_CLASS_SNIPER",
+                "s": "צלף"
+            },
+            {
+                "n": "CONTEXT_CLASS_SOLDIER",
+                "s": "חייל"
+            },
+            {
+                "n": "CONTEXT_CLASS_THIEF",
+                "s": "גנב"
+            },
+            {
+                "n": "CONTEXT_CLASS_WARRIOR",
+                "s": "לוחם"
+            },
+            {
+                "n": "CONTEXT_CLASS_WIZARD",
+                "s": "מכשף"
+            },
+            {
+                "n": "CONTEXT_CLASS_ZOMBIE",
+                "s": "זומבי"
+            },
+            {
+                "n": "CONTEXT_CLASS_ZOMBIE_PLURAL",
+                "s": "זומבים"
+            },
+            {
+                "n": "CONTEXT_COMPETITION_FIRST",
+                "s": "מקום ראשון"
+            },
+            {
+                "n": "CONTEXT_COMPETITION_PLACE_NOUN",
+                "s": "מקום"
+            },
+            {
+                "n": "CONTEXT_COMPETITION_SECOND",
+                "s": "מקום שני"
+            },
+            {
+                "n": "CONTEXT_COMPETITION_THIRD",
+                "s": "מקום שלישי"
+            },
+            {
+                "n": "CONTEXT_CONDITION_BURNING",
+                "s": "שורף"
+            },
+            {
+                "n": "CONTEXT_CONDITION_CRITICAL",
+                "s": "אנוש"
+            },
+            {
+                "n": "CONTEXT_CONDITION_DEAD",
+                "s": "מת"
+            },
+            {
+                "n": "CONTEXT_CONDITION_FROZEN",
+                "s": "קפוא"
+            },
+            {
+                "n": "CONTEXT_CONDITION_POISONED",
+                "s": "מורעל"
+            },
+            {
+                "n": "CONTEXT_CONDITION_SLOWED",
+                "s": "מואט"
+            },
+            {
+                "n": "CONTEXT_CONDITION_STUNNED",
+                "s": "משותק"
+            },
+            {
+                "n": "CONTEXT_CONDITION_UNCONSCIOUS",
+                "s": "חסר-הכרה"
+            },
+            {
+                "n": "CONTEXT_CONDITION_UNHURT",
+                "s": "בריא"
+            },
+            {
+                "n": "CONTEXT_CONDITION_WET",
+                "s": "רטוב"
+            },
+            {
+                "n": "CONTEXT_CONDITION_WOUNDED",
+                "s": "פצוע"
+            },
+            {
+                "n": "CONTEXT_DESCRIPTION_BIG",
+                "s": "גדול"
+            },
+            {
+                "n": "CONTEXT_DESCRIPTION_HUGE",
+                "s": "ענק"
+            },
+            {
+                "n": "CONTEXT_DESCRIPTION_SMALL",
+                "s": "קטן"
+            },
+            {
+                "n": "CONTEXT_DESCRIPTION_TINY",
+                "s": "קטנטן"
+            },
+            {
+                "n": "CONTEXT_ELEMENT_AIR",
+                "s": "אוויר"
+            },
+            {
+                "n": "CONTEXT_ELEMENT_EARTH",
+                "s": "אדמה"
+            },
+            {
+                "n": "CONTEXT_ELEMENT_FIRE",
+                "s": "אש"
+            },
+            {
+                "n": "CONTEXT_ELEMENT_METAL",
+                "s": "מתכת"
+            },
+            {
+                "n": "CONTEXT_ELEMENT_WATER",
+                "s": "מים"
+            },
+            {
+                "n": "CONTEXT_GAMBLING_BET",
+                "s": "המר"
+            },
+            {
+                "n": "CONTEXT_GAMBLING_DISCARD",
+                "s": "בטל"
+            },
+            {
+                "n": "CONTEXT_GAMBLING_JACKPOT",
+                "s": "כל הקופה"
+            },
+            {
+                "n": "CONTEXT_GAMBLING_MAX",
+                "s": "מקסימום"
+            },
+            {
+                "n": "CONTEXT_GAMBLING_MIN",
+                "s": "מינימום"
+            },
+            {
+                "n": "CONTEXT_ITEM_ARMOR",
+                "s": "שריון"
+            },
+            {
+                "n": "CONTEXT_ITEM_ARROW",
+                "s": "חץ"
+            },
+            {
+                "n": "CONTEXT_ITEM_ARROWS",
+                "s": "חיצים"
+            },
+            {
+                "n": "CONTEXT_ITEM_BOARD",
+                "s": "לוח"
+            },
+            {
+                "n": "CONTEXT_ITEM_BOMB",
+                "s": "פצצה"
+            },
+            {
+                "n": "CONTEXT_ITEM_BOOK",
+                "s": "ספר"
+            },
+            {
+                "n": "CONTEXT_ITEM_BOOTS",
+                "s": "מגפיים"
+            },
+            {
+                "n": "CONTEXT_ITEM_BOW",
+                "s": "קשת"
+            },
+            {
+                "n": "CONTEXT_ITEM_CARD",
+                "s": "קלף"
+            },
+            {
+                "n": "CONTEXT_ITEM_CARD_PLURAL",
+                "s": "קלפים"
+            },
+            {
+                "n": "CONTEXT_ITEM_CHEST",
+                "s": "תיבה"
+            },
+            {
+                "n": "CONTEXT_ITEM_COND_MAGICAL",
+                "s": "קסום"
+            },
+            {
+                "n": "CONTEXT_ITEM_COND_RUSTY",
+                "s": "חלוד"
+            },
+            {
+                "n": "CONTEXT_ITEM_DAGGER",
+                "s": "פיגיון"
+            },
+            {
+                "n": "CONTEXT_ITEM_DIE_NOUN",
+                "s": "קוביה"
+            },
+            {
+                "n": "CONTEXT_ITEM_DIE_PLURAL",
+                "s": "קוביות"
+            },
+            {
+                "n": "CONTEXT_ITEM_DOOR",
+                "s": "דלת"
+            },
+            {
+                "n": "CONTEXT_ITEM_GAUNTLETS",
+                "s": "כפפות-שריון"
+            },
+            {
+                "n": "CONTEXT_ITEM_GEM",
+                "s": "אבן-חן"
+            },
+            {
+                "n": "CONTEXT_ITEM_GIFT_NOUN",
+                "s": "מתנה"
+            },
+            {
+                "n": "CONTEXT_ITEM_GIFT_PLURAL",
+                "s": "מתנות"
+            },
+            {
+                "n": "CONTEXT_ITEM_GLOVE",
+                "s": "כפפות"
+            },
+            {
+                "n": "CONTEXT_ITEM_GUN",
+                "s": "רובה"
+            },
+            {
+                "n": "CONTEXT_ITEM_HAMMER",
+                "s": "פטיש"
+            },
+            {
+                "n": "CONTEXT_ITEM_HELMET",
+                "s": "קסדה"
+            },
+            {
+                "n": "CONTEXT_ITEM_KEY",
+                "s": "מפתח"
+            },
+            {
+                "n": "CONTEXT_ITEM_KNIFE",
+                "s": "סכין"
+            },
+            {
+                "n": "CONTEXT_ITEM_LOCK",
+                "s": "מנעול"
+            },
+            {
+                "n": "CONTEXT_ITEM_LOVE",
+                "s": "אהבה"
+            },
+            {
+                "n": "CONTEXT_ITEM_MACHINE_ITEM_GUN",
+                "s": "מקלע"
+            },
+            {
+                "n": "CONTEXT_ITEM_MAGIC",
+                "s": "קסמים"
+            },
+            {
+                "n": "CONTEXT_ITEM_PISTOL",
+                "s": "אקדח"
+            },
+            {
+                "n": "CONTEXT_ITEM_QUEST_NOUN",
+                "s": "משימה"
+            },
+            {
+                "n": "CONTEXT_ITEM_RANK_NOUN",
+                "s": "דרגה"
+            },
+            {
+                "n": "CONTEXT_ITEM_RIFLE",
+                "s": "רובה"
+            },
+            {
+                "n": "CONTEXT_ITEM_ROCKET_ITEM_LAUNCHER",
+                "s": "משגר-טילים"
+            },
+            {
+                "n": "CONTEXT_ITEM_RPG",
+                "s": "RPG"
+            },
+            {
+                "n": "CONTEXT_ITEM_SCROLL",
+                "s": "מגילה"
+            },
+            {
+                "n": "CONTEXT_ITEM_SHIELD",
+                "s": "מגן"
+            },
+            {
+                "n": "CONTEXT_ITEM_SHIELD_PLURAL",
+                "s": "מגנים"
+            },
+            {
+                "n": "CONTEXT_ITEM_SHIELD_SCIFI",
+                "s": "מגן אנרגיה"
+            },
+            {
+                "n": "CONTEXT_ITEM_SHIELD_SCIFI_PLURAL",
+                "s": "מגיני אנרגיה"
+            },
+            {
+                "n": "CONTEXT_ITEM_SHOTGUN",
+                "s": "רובה-ציד"
+            },
+            {
+                "n": "CONTEXT_ITEM_SNIPER_ITEM_RIFLE",
+                "s": "רובה-צלפים"
+            },
+            {
+                "n": "CONTEXT_ITEM_SPELL",
+                "s": "קסם"
+            },
+            {
+                "n": "CONTEXT_ITEM_STAFF",
+                "s": "מקל"
+            },
+            {
+                "n": "CONTEXT_ITEM_SWORD",
+                "s": "חרב"
+            },
+            {
+                "n": "CONTEXT_ITEM_TREASURE",
+                "s": "אוצר"
+            },
+            {
+                "n": "CONTEXT_ITEM_TYPE_EPIC",
+                "s": "שובר-עולמות"
+            },
+            {
+                "n": "CONTEXT_ITEM_TYPE_JUNK",
+                "s": "זבל"
+            },
+            {
+                "n": "CONTEXT_ITEM_WAND",
+                "s": "שרביט"
+            },
+            {
+                "n": "CONTEXT_ITEM_WOOD",
+                "s": "עץ"
+            },
+            {
+                "n": "CONTEXT_MACHINE_ALTITUDE",
+                "s": "גובה"
+            },
+            {
+                "n": "CONTEXT_MACHINE_BRAKES",
+                "s": "בלמים"
+            },
+            {
+                "n": "CONTEXT_MACHINE_CHASSIS",
+                "s": "שדרה"
+            },
+            {
+                "n": "CONTEXT_MACHINE_DEPTH",
+                "s": "עומק"
+            },
+            {
+                "n": "CONTEXT_MACHINE_FUEL",
+                "s": "דלק"
+            },
+            {
+                "n": "CONTEXT_MACHINE_GEAR",
+                "s": "הילוך"
+            },
+            {
+                "n": "CONTEXT_MACHINE_HANDLING",
+                "s": "היגוי"
+            },
+            {
+                "n": "CONTEXT_MACHINE_SPEED",
+                "s": "מהירות"
+            },
+            {
+                "n": "CONTEXT_MACHINE_STEERING",
+                "s": "היגוי"
+            },
+            {
+                "n": "CONTEXT_MACHINE_SUSPENSION",
+                "s": "מתלים"
+            },
+            {
+                "n": "CONTEXT_MACHINE_WHEELS",
+                "s": "גלגלים"
+            },
+            {
+                "n": "CONTEXT_MACHINE_WINGS",
+                "s": "כנפיים"
+            },
+            {
+                "n": "CONTEXT_MEDAL",
+                "s": "מדליה"
+            },
+            {
+                "n": "CONTEXT_MEDAL_BRONZE",
+                "s": "מדליית ארד"
+            },
+            {
+                "n": "CONTEXT_MEDAL_GOLD",
+                "s": "מדליית זהב"
+            },
+            {
+                "n": "CONTEXT_MEDAL_SILVER",
+                "s": "מדליית כסף"
+            },
+            {
+                "n": "CONTEXT_METAL_BRONZE",
+                "s": "ארד"
+            },
+            {
+                "n": "CONTEXT_METAL_COIN",
+                "s": "מטבע"
+            },
+            {
+                "n": "CONTEXT_METAL_GOLD",
+                "s": "זהב"
+            },
+            {
+                "n": "CONTEXT_METAL_INGOT",
+                "s": "מטיל"
+            },
+            {
+                "n": "CONTEXT_METAL_PLATINUM",
+                "s": "פלטינה"
+            },
+            {
+                "n": "CONTEXT_METAL_SILVER",
+                "s": "כסף"
+            },
+            {
+                "n": "CONTEXT_PLACE_CASTLE",
+                "s": "טירה"
+            },
+            {
+                "n": "CONTEXT_PLACE_CAVE",
+                "s": "מערה"
+            },
+            {
+                "n": "CONTEXT_PLACE_DUNGEON",
+                "s": "מבוך"
+            },
+            {
+                "n": "CONTEXT_PLACE_INN",
+                "s": "פונדק"
+            },
+            {
+                "n": "CONTEXT_PLACE_PLANET",
+                "s": "כוכב-לכת"
+            },
+            {
+                "n": "CONTEXT_PLACE_PLANET_EARTH",
+                "s": "כדור-הארץ"
+            },
+            {
+                "n": "CONTEXT_PLACE_SPACE",
+                "s": "חלל"
+            },
+            {
+                "n": "CONTEXT_PLACE_SPACESHIP",
+                "s": "חללית"
+            },
+            {
+                "n": "CONTEXT_STORY",
+                "s": "סיפור"
+            },
+            {
+                "n": "CONTEXT_STORY_ADVENTURE",
+                "s": "הרפתקאה"
+            },
+            {
+                "n": "CONTEXT_STORY_CHAPTER",
+                "s": "פרק"
+            },
+            {
+                "n": "CONTEXT_STORY_PAGE",
+                "s": "עמוד"
+            },
+            {
+                "n": "CREDITS_3D_MODELING",
+                "s": "מידול תלת-מימד"
+            },
+            {
+                "n": "CREDITS_ANIMATION",
+                "s": "אנימציה"
+            },
+            {
+                "n": "CREDITS_ANIMATION_DIRECTOR",
+                "s": "במאי-אנימציה"
+            },
+            {
+                "n": "CREDITS_ANIMATOR",
+                "s": "אנימטור"
+            },
+            {
+                "n": "CREDITS_ART",
+                "s": "ארט"
+            },
+            {
+                "n": "CREDITS_ART_DIRECTOR",
+                "s": "אחראי-גרפיקה"
+            },
+            {
+                "n": "CREDITS_ARTIST",
+                "s": "מעצב"
+            },
+            {
+                "n": "CREDITS_ARTIST_PLURAL",
+                "s": "מעצבים"
+            },
+            {
+                "n": "CREDITS_ASSISTANT",
+                "s": "עוזר"
+            },
+            {
+                "n": "CREDITS_ASSOCIATE",
+                "s": "שותף"
+            },
+            {
+                "n": "CREDITS_AUDIO_DIRECTOR",
+                "s": "במאי-אודיו"
+            },
+            {
+                "n": "CREDITS_CHARACTER_DESIGNER",
+                "s": "מעצב דמויות"
+            },
+            {
+                "n": "CREDITS_CHIEF_TECH_OFFICER",
+                "s": "מוביל-טכני"
+            },
+            {
+                "n": "CREDITS_CINEMATIC_ANIMATOR",
+                "s": "אנימטור"
+            },
+            {
+                "n": "CREDITS_CINEMATICS_DIRECTOR",
+                "s": "במאי"
+            },
+            {
+                "n": "CREDITS_CODE",
+                "s": "תוכנה"
+            },
+            {
+                "n": "CREDITS_COMPOSER",
+                "s": "מלחין"
+            },
+            {
+                "n": "CREDITS_CONCEPT_ARTIST",
+                "s": "אחראי קונספט-ארט"
+            },
+            {
+                "n": "CREDITS_CREATIVE_DIRECTOR",
+                "s": "במאי-קריאטיב"
+            },
+            {
+                "n": "CREDITS_DATABASE_ADMIN",
+                "s": "אחראי בסיס-נתונים"
+            },
+            {
+                "n": "CREDITS_DESIGN DIRECTOR",
+                "s": "מעצב מוביל"
+            },
+            {
+                "n": "CREDITS_DEVELOPED_BY",
+                "s": "פותח על-ידי"
+            },
+            {
+                "n": "CREDITS_DIRECTOR",
+                "s": "במאי"
+            },
+            {
+                "n": "CREDITS_FOLEY_ARTIST",
+                "s": "מעצב אפקטים-קוליים"
+            },
+            {
+                "n": "CREDITS_FONT",
+                "s": "גופן"
+            },
+            {
+                "n": "CREDITS_FONT_PLURAL",
+                "s": "גופנים"
+            },
+            {
+                "n": "CREDITS_GAME",
+                "s": "משחק"
+            },
+            {
+                "n": "CREDITS_GAME_DESIGN",
+                "s": "תכנון המשחק"
+            },
+            {
+                "n": "CREDITS_GAME_DESIGNER",
+                "s": "מתכנן-המשחק"
+            },
+            {
+                "n": "CREDITS_GAME_DEVELOPER",
+                "s": "מפתח המשחק"
+            },
+            {
+                "n": "CREDITS_GAME_DEVELOPMENT",
+                "s": "פיתוח משחק"
+            },
+            {
+                "n": "CREDITS_GRAPHIC_DESIGNER",
+                "s": "מעצב גרפי"
+            },
+            {
+                "n": "CREDITS_IMAGE",
+                "s": "תמונה"
+            },
+            {
+                "n": "CREDITS_IMAGE_PLURAL",
+                "s": "תמונות"
+            },
+            {
+                "n": "CREDITS_INTERFACE_ARTIST",
+                "s": "מעצב ממשק"
+            },
+            {
+                "n": "CREDITS_JUNIOR",
+                "s": "צעיר"
+            },
+            {
+                "n": "CREDITS_LEAD",
+                "s": "מוביל"
+            },
+            {
+                "n": "CREDITS_LEAD_PROGRAMMER",
+                "s": "מתכנת מוביל"
+            },
+            {
+                "n": "CREDITS_LEVEL_DESIGN",
+                "s": "עיצוב-מפות"
+            },
+            {
+                "n": "CREDITS_LEVEL_DESIGNER",
+                "s": "מעצב מפה"
+            },
+            {
+                "n": "CREDITS_LOCALIZATION",
+                "s": "התאמה לשפה"
+            },
+            {
+                "n": "CREDITS_MANUSCRIPT",
+                "s": "תסריט"
+            },
+            {
+                "n": "CREDITS_MODELS",
+                "s": "מודלים"
+            },
+            {
+                "n": "CREDITS_MUSICIAN",
+                "s": "מוזיקאי"
+            },
+            {
+                "n": "CREDITS_POLYGLOT",
+                "s": "תורגם על-ידי פרויקט פוליגלוט"
+            },
+            {
+                "n": "CREDITS_PRODUCER",
+                "s": "מפיק"
+            },
+            {
+                "n": "CREDITS_PRODUCTION",
+                "s": "הפקה"
+            },
+            {
+                "n": "CREDITS_PROGRAM_MANAGER",
+                "s": "מנהל תוכנית"
+            },
+            {
+                "n": "CREDITS_PROGRAMMER",
+                "s": "מתכנת"
+            },
+            {
+                "n": "CREDITS_PROGRAMMER_PLURAL",
+                "s": "מתכנתים"
+            },
+            {
+                "n": "CREDITS_PROGRAMMING",
+                "s": "תכנות"
+            },
+            {
+                "n": "CREDITS_PROJECT_MANAGER",
+                "s": "מנהל פרויקט"
+            },
+            {
+                "n": "CREDITS_PUBLISHER",
+                "s": "מפיץ"
+            },
+            {
+                "n": "CREDITS_RECORDIST",
+                "s": "מקליט"
+            },
+            {
+                "n": "CREDITS_SCRIPT_WRITER",
+                "s": "תסריטאי"
+            },
+            {
+                "n": "CREDITS_SENIOR",
+                "s": "ותיק"
+            },
+            {
+                "n": "CREDITS_SFX",
+                "s": "אפקטים-קוליים"
+            },
+            {
+                "n": "CREDITS_SOUND_DESIGNER",
+                "s": "מעצב-קול"
+            },
+            {
+                "n": "CREDITS_SOUND_ENGINEER",
+                "s": "טכנאי-קול"
+            },
+            {
+                "n": "CREDITS_SOUNDTRACK",
+                "s": "פס-קול"
+            },
+            {
+                "n": "CREDITS_SPECIAL_THANKS",
+                "s": "תודות מיוחדות"
+            },
+            {
+                "n": "CREDITS_SPECIAL_THANKS_TO",
+                "s": "תודה מיוחדת ל:"
+            },
+            {
+                "n": "CREDITS_TECHNICAL_ARTIST",
+                "s": "אומן טכני"
+            },
+            {
+                "n": "CREDITS_TECHNICAL_DIRECTOR",
+                "s": "במאי-טכני"
+            },
+            {
+                "n": "CREDITS_TEST_LEAD",
+                "s": "מוביל בדיקות"
+            },
+            {
+                "n": "CREDITS_TEST_MANAGER",
+                "s": "מנהל בדיקות"
+            },
+            {
+                "n": "CREDITS_TESTER",
+                "s": "בודק"
+            },
+            {
+                "n": "CREDITS_TRANSLATION",
+                "s": "תרגום"
+            },
+            {
+                "n": "CREDITS_VFX",
+                "s": "אפקטים"
+            },
+            {
+                "n": "CREDITS_VOICE_ACTING",
+                "s": "דיבוב"
+            },
+            {
+                "n": "CREDITS_VOICE_ACTOR",
+                "s": "מדובב"
+            },
+            {
+                "n": "CREDITS_WRITER",
+                "s": "כותב"
+            },
+            {
+                "n": "ERROR_DEVICE_NOT_FOUND",
+                "s": "לא נמצא רכיב {0}"
+            },
+            {
+                "n": "ERROR_DEVICE_VR_LEAVING_TRACKAREA",
+                "s": "יציאה מגבולות מפוקחים"
+            },
+            {
+                "n": "ERROR_DEVICE_VR_NO_HMD",
+                "s": "HMD לא נמצא"
+            },
+            {
+                "n": "ERROR_GENERIC_CHEATING",
+                "s": "רמאות!"
+            },
+            {
+                "n": "ERROR_GENERIC_ERRCODE",
+                "s": "טעות מספר:"
+            },
+            {
+                "n": "ERROR_GENERIC_INVALID_KEY",
+                "s": "סיסמה לא נכונה!"
+            },
+            {
+                "n": "ERROR_GENERIC_INVALID_NAME",
+                "s": "שם לא נכון!"
+            },
+            {
+                "n": "ERROR_GENERIC_TEXT",
+                "s": "ארעה טעות."
+            },
+            {
+                "n": "ERROR_NETWORK_CONNECTION_LOST",
+                "s": "החיבור לרשת אבד."
+            },
+            {
+                "n": "ERROR_NETWORK_DISCONNECTED_YOUR_OPPONENT",
+                "s": "היריב התנתק מהרשת."
+            },
+            {
+                "n": "ERROR_NETWORK_DISCONNECTED_YOUR_PLAYER",
+                "s": "השחקן התנתק מהרשת."
+            },
+            {
+                "n": "ERROR_NETWORK_DISCONNECTED_YOUR_TEAMMATE",
+                "s": "החבר לקבוצה התנתק מהרשת."
+            },
+            {
+                "n": "ERROR_NETWORK_SERVER",
+                "s": "אי אפשר להתחבר לשרת."
+            },
+            {
+                "n": "ERROR_SAVE_CORRUPTED",
+                "s": "הקובץ השמור פגום."
+            },
+            {
+                "n": "ERROR_SAVE_NO_GAMES_FOUND",
+                "s": "לא נמצאו משחקים שמורים."
+            },
+            {
+                "n": "ERROR_SAVE_NO_OPEN_GAMES",
+                "s": "אין משחקים פתוחים."
+            },
+            {
+                "n": "GAME_ACTION_ATTACK",
+                "s": "תקוף"
+            },
+            {
+                "n": "GAME_ACTION_BOOST",
+                "s": "Boost"
+            },
+            {
+                "n": "GAME_ACTION_BUILD",
+                "s": "בנה"
+            },
+            {
+                "n": "GAME_ACTION_CAST_FISHING",
+                "s": "הטל-פיתיון"
+            },
+            {
+                "n": "GAME_ACTION_CAST_SPELL",
+                "s": "הטל-כישוף"
+            },
+            {
+                "n": "GAME_ACTION_CLAIM",
+                "s": "דרוש"
+            },
+            {
+                "n": "GAME_ACTION_CLIMB",
+                "s": "טפס"
+            },
+            {
+                "n": "GAME_ACTION_CLOSE",
+                "s": "סגור"
+            },
+            {
+                "n": "GAME_ACTION_COLLECT",
+                "s": "אסוף"
+            },
+            {
+                "n": "GAME_ACTION_COOK",
+                "s": "בשל"
+            },
+            {
+                "n": "GAME_ACTION_CRAFT",
+                "s": "צור"
+            },
+            {
+                "n": "GAME_ACTION_CROUCH",
+                "s": "כרע"
+            },
+            {
+                "n": "GAME_ACTION_DODGE",
+                "s": "חמוק"
+            },
+            {
+                "n": "GAME_ACTION_DRIVE",
+                "s": "תנהג"
+            },
+            {
+                "n": "GAME_ACTION_FLY",
+                "s": "עוף"
+            },
+            {
+                "n": "GAME_ACTION_FULL_SPEED",
+                "s": "מהירות מלאה"
+            },
+            {
+                "n": "GAME_ACTION_GO",
+                "s": "עבור אל"
+            },
+            {
+                "n": "GAME_ACTION_GO_TO_PLACE",
+                "s": "לך אל"
+            },
+            {
+                "n": "GAME_ACTION_HALF_SPEED",
+                "s": "חצי מהירות"
+            },
+            {
+                "n": "GAME_ACTION_HEAL",
+                "s": "רפא"
+            },
+            {
+                "n": "GAME_ACTION_JUMP",
+                "s": "קפוץ"
+            },
+            {
+                "n": "GAME_ACTION_LAND",
+                "s": "נחת"
+            },
+            {
+                "n": "GAME_ACTION_LOOK",
+                "s": "הבט"
+            },
+            {
+                "n": "GAME_ACTION_MIX",
+                "s": "ערבב"
+            },
+            {
+                "n": "GAME_ACTION_OPEN",
+                "s": "פתח"
+            },
+            {
+                "n": "GAME_ACTION_PICK_UP",
+                "s": "הרם"
+            },
+            {
+                "n": "GAME_ACTION_RACE",
+                "s": "תתחרה"
+            },
+            {
+                "n": "GAME_ACTION_READ",
+                "s": "קרא"
+            },
+            {
+                "n": "GAME_ACTION_REPLACE",
+                "s": "החלף"
+            },
+            {
+                "n": "GAME_ACTION_RUN",
+                "s": "רוץ"
+            },
+            {
+                "n": "GAME_ACTION_RUN_AWAY",
+                "s": "ברח"
+            },
+            {
+                "n": "GAME_ACTION_SHOOT",
+                "s": "תירה"
+            },
+            {
+                "n": "GAME_ACTION_SNEAK",
+                "s": "תתגנב"
+            },
+            {
+                "n": "GAME_ACTION_SPIN",
+                "s": "תסתובב"
+            },
+            {
+                "n": "GAME_ACTION_SPRINT",
+                "s": "רוץ מהר"
+            },
+            {
+                "n": "GAME_ACTION_STEER",
+                "s": "פנה"
+            },
+            {
+                "n": "GAME_ACTION_TAKE_OFF",
+                "s": "המרא"
+            },
+            {
+                "n": "GAME_ACTION_TALK",
+                "s": "דבר"
+            },
+            {
+                "n": "GAME_ACTION_THROW",
+                "s": "זרוק"
+            },
+            {
+                "n": "GAME_ACTION_WALK",
+                "s": "לך"
+            },
+            {
+                "n": "GAME_CHARACTER_ENDURANCE",
+                "s": "סיבולת"
+            },
+            {
+                "n": "GAME_CHARACTER_EXP",
+                "s": "נקודות ניסיון"
+            },
+            {
+                "n": "GAME_CHARACTER_FEMALE",
+                "s": "נקבה"
+            },
+            {
+                "n": "GAME_CHARACTER_HEALTH",
+                "s": "בריאות"
+            },
+            {
+                "n": "GAME_CHARACTER_HEART",
+                "s": "לב"
+            },
+            {
+                "n": "GAME_CHARACTER_HEART_PLURAL",
+                "s": "לבבות"
+            },
+            {
+                "n": "GAME_CHARACTER_LEVEL",
+                "s": "רמה"
+            },
+            {
+                "n": "GAME_CHARACTER_LEVEL_UP",
+                "s": "עלית רמה!"
+            },
+            {
+                "n": "GAME_CHARACTER_LIVES",
+                "s": "חיים"
+            },
+            {
+                "n": "GAME_CHARACTER_MALE",
+                "s": "זכר"
+            },
+            {
+                "n": "GAME_CHARACTER_MAN",
+                "s": "גבר"
+            },
+            {
+                "n": "GAME_CHARACTER_MAN_PLURAL",
+                "s": "גברים"
+            },
+            {
+                "n": "GAME_CHARACTER_RESPAWN",
+                "s": "התחל מחדש"
+            },
+            {
+                "n": "GAME_CHARACTER_RESPAWN_IN",
+                "s": "מתחיל מחדש בעוד"
+            },
+            {
+                "n": "GAME_CHARACTER_RESPAWN_QUESTION",
+                "s": "להתחיל מחדש?"
+            },
+            {
+                "n": "GAME_CHARACTER_RESPAWNING",
+                "s": "מתחיל מחדש..."
+            },
+            {
+                "n": "GAME_CHARACTER_SKILL",
+                "s": "רמה"
+            },
+            {
+                "n": "GAME_CHARACTER_SPAWN_POINT",
+                "s": "נקודת התחלה"
+            },
+            {
+                "n": "GAME_CHARACTER_TRANSGENDER",
+                "s": "טרנסג'נדר"
+            },
+            {
+                "n": "GAME_CHARACTER_WOMAN",
+                "s": "אשה"
+            },
+            {
+                "n": "GAME_CHARACTER_WOMAN_PLURAL",
+                "s": "נשים"
+            },
+            {
+                "n": "GAME_DAMAGE",
+                "s": "נזק"
+            },
+            {
+                "n": "GAME_DAMAGE_CRITICAL_HIT",
+                "s": "פגיעה קריטית"
+            },
+            {
+                "n": "GAME_DAMAGE_CRITICAL_MISS",
+                "s": "פספוס קריטי"
+            },
+            {
+                "n": "GAME_DAMAGE_HIT_NOUN",
+                "s": "פגיעה"
+            },
+            {
+                "n": "GAME_DAMAGE_HIT_POINTS_PLURAL",
+                "s": "חיים"
+            },
+            {
+                "n": "GAME_DAMAGE_MISS_NOUN",
+                "s": "פספוס"
+            },
+            {
+                "n": "GAME_DAMAGE_UNIT",
+                "s": "פגיעה"
+            },
+            {
+                "n": "GAME_DAMAGE_UNIT_PLURAL",
+                "s": "פגיעות"
+            },
+            {
+                "n": "GAME_ENEMY",
+                "s": "אויב"
+            },
+            {
+                "n": "GAME_ENEMY_FEMALE",
+                "s": "אויבת"
+            },
+            {
+                "n": "GAME_ENEMY_FEMALE_PLURAL",
+                "s": "אויבות"
+            },
+            {
+                "n": "GAME_ENEMY_PLURAL",
+                "s": "אויבים"
+            },
+            {
+                "n": "GAME_GENRE_ACTION",
+                "s": "משחק אקשן"
+            },
+            {
+                "n": "GAME_GENRE_ADVENTURE",
+                "s": "משחק הרפתקה"
+            },
+            {
+                "n": "GAME_GENRE_CARD",
+                "s": "משחק קלפים"
+            },
+            {
+                "n": "GAME_GENRE_CASUAL",
+                "s": "משחק קז'ואל"
+            },
+            {
+                "n": "GAME_GENRE_FANTASY",
+                "s": "משחק פנטסיה"
+            },
+            {
+                "n": "GAME_GENRE_HARDCORE",
+                "s": "משחק Hardcore"
+            },
+            {
+                "n": "GAME_GENRE_INDIE",
+                "s": "משחק אינדי"
+            },
+            {
+                "n": "GAME_GENRE_MEDIEVAL",
+                "s": "משחק ימי-ביניים"
+            },
+            {
+                "n": "GAME_GENRE_MISC",
+                "s": "משחק שונות"
+            },
+            {
+                "n": "GAME_GENRE_MULTIPLAYER",
+                "s": "משחק רב-משתתפים"
+            },
+            {
+                "n": "GAME_GENRE_NAME",
+                "s": "ז'אנר"
+            },
+            {
+                "n": "GAME_GENRE_PLATFORMER",
+                "s": "משחק Platformer"
+            },
+            {
+                "n": "GAME_GENRE_PUZZLE",
+                "s": "משחק מחשבה"
+            },
+            {
+                "n": "GAME_GENRE_QUIZ",
+                "s": "חידון"
+            },
+            {
+                "n": "GAME_GENRE_RACING",
+                "s": "משחק מירוצים"
+            },
+            {
+                "n": "GAME_GENRE_RETRO",
+                "s": "משחק רטרו"
+            },
+            {
+                "n": "GAME_GENRE_RPG",
+                "s": "משחק תפקידים"
+            },
+            {
+                "n": "GAME_GENRE_RTS",
+                "s": "משחק אסטרטגיה (זמן-אמת)"
+            },
+            {
+                "n": "GAME_GENRE_SCIFI",
+                "s": "משחק מדע-בדיוני"
+            },
+            {
+                "n": "GAME_GENRE_SHOOTER",
+                "s": "משחק יריות"
+            },
+            {
+                "n": "GAME_GENRE_SIMULATION",
+                "s": "סימולטור"
+            },
+            {
+                "n": "GAME_GENRE_SINGLEPLAYER",
+                "s": "שחקן יחיד"
+            },
+            {
+                "n": "GAME_GENRE_SPORTS",
+                "s": "משחק ספורט"
+            },
+            {
+                "n": "GAME_GENRE_STRATEGY",
+                "s": "משחק אסטרטגיה"
+            },
+            {
+                "n": "GAME_GENRE_TBS",
+                "s": "משחק אסטרטגיה (תורות)"
+            },
+            {
+                "n": "GAME_GENRE_TOWER_DEFENSE",
+                "s": "משחק הגן על הטירה"
+            },
+            {
+                "n": "GAME_INVENTORY",
+                "s": "מלאי"
+            },
+            {
+                "n": "GAME_INVENTORY_AMMO",
+                "s": "תחמושת"
+            },
+            {
+                "n": "GAME_INVENTORY_AMMUNITION",
+                "s": "תחמושת"
+            },
+            {
+                "n": "GAME_INVENTORY_BULLET",
+                "s": "כדור"
+            },
+            {
+                "n": "GAME_INVENTORY_BULLET_PLURAL",
+                "s": "כדורים"
+            },
+            {
+                "n": "GAME_INVENTORY_BUY",
+                "s": "לקנות"
+            },
+            {
+                "n": "GAME_INVENTORY_CAPACITY",
+                "s": "תפוסת מלאי"
+            },
+            {
+                "n": "GAME_INVENTORY_DROP",
+                "s": "שמוט"
+            },
+            {
+                "n": "GAME_INVENTORY_ENCUMBRANCE",
+                "s": "מעמס-יתר"
+            },
+            {
+                "n": "GAME_INVENTORY_FULL",
+                "s": "אין מקום במלאי"
+            },
+            {
+                "n": "GAME_INVENTORY_ITEM",
+                "s": "חפץ"
+            },
+            {
+                "n": "GAME_INVENTORY_KEY",
+                "s": "מפתח"
+            },
+            {
+                "n": "GAME_INVENTORY_POWERUP",
+                "s": "Powerup"
+            },
+            {
+                "n": "GAME_INVENTORY_SELL",
+                "s": "למכור"
+            },
+            {
+                "n": "GAME_INVENTORY_USE",
+                "s": "השתמש"
+            },
+            {
+                "n": "GAME_INVENTORY_WEAPON",
+                "s": "נשק"
+            },
+            {
+                "n": "GAME_INVENTORY_WEAPONS",
+                "s": "נשקים"
+            },
+            {
+                "n": "GAME_INVENTORY_YOU_CANNOT_CARRY",
+                "s": "אתה לא יכול לשאת עוד."
+            },
+            {
+                "n": "GAME_LABEL_BE_CAREFUL",
+                "s": "תיזהר!"
+            },
+            {
+                "n": "GAME_LABEL_PLEASE_BE_CAREFUL",
+                "s": "בבקשה תיזהר"
+            },
+            {
+                "n": "GAME_LABEL_TACTICS",
+                "s": "טקטיקה"
+            },
+            {
+                "n": "GAME_OBJECTIVE",
+                "s": "מטרה"
+            },
+            {
+                "n": "GAME_OBJECTIVE_ASSIST",
+                "s": "הגשת עזרה"
+            },
+            {
+                "n": "GAME_OBJECTIVE_ASSIST_PLURAL",
+                "s": "הגשות עזרה"
+            },
+            {
+                "n": "GAME_OBJECTIVE_ATTACK",
+                "s": "תקוף"
+            },
+            {
+                "n": "GAME_OBJECTIVE_BONUS",
+                "s": "בונוס"
+            },
+            {
+                "n": "GAME_OBJECTIVE_CAPTURE",
+                "s": "תפוס"
+            },
+            {
+                "n": "GAME_OBJECTIVE_COMPLETE",
+                "s": "הסתיים"
+            },
+            {
+                "n": "GAME_OBJECTIVE_DEATH",
+                "s": "מוות"
+            },
+            {
+                "n": "GAME_OBJECTIVE_DEATH_PLURAL",
+                "s": "מקרי-מוות"
+            },
+            {
+                "n": "GAME_OBJECTIVE_DEFEND",
+                "s": "הגן"
+            },
+            {
+                "n": "GAME_OBJECTIVE_DESTROY",
+                "s": "הרוס"
+            },
+            {
+                "n": "GAME_OBJECTIVE_ESCAPE",
+                "s": "ברח"
+            },
+            {
+                "n": "GAME_OBJECTIVE_GAME_FINISHED",
+                "s": "הסוף"
+            },
+            {
+                "n": "GAME_OBJECTIVE_GAMEOVER",
+                "s": "המשחק נגמר"
+            },
+            {
+                "n": "GAME_OBJECTIVE_GAMEOVER_CAPS",
+                "s": "המשחק נגמר!"
+            },
+            {
+                "n": "GAME_OBJECTIVE_HIGH_SCORE",
+                "s": "שיא נקודות"
+            },
+            {
+                "n": "GAME_OBJECTIVE_INCOMPLETE",
+                "s": "לא הסתיים"
+            },
+            {
+                "n": "GAME_OBJECTIVE_KILL",
+                "s": "להרוג"
+            },
+            {
+                "n": "GAME_OBJECTIVE_KILL_ASSIST",
+                "s": "עזרה להריגה"
+            },
+            {
+                "n": "GAME_OBJECTIVE_KILL_NOUN",
+                "s": "הריגה"
+            },
+            {
+                "n": "GAME_OBJECTIVE_KILL_PLURAL",
+                "s": "הריגות"
+            },
+            {
+                "n": "GAME_OBJECTIVE_LOCKED",
+                "s": "נעול"
+            },
+            {
+                "n": "GAME_OBJECTIVE_LOSSES",
+                "s": "הפסדים"
+            },
+            {
+                "n": "GAME_OBJECTIVE_MATCH",
+                "s": "משחקון"
+            },
+            {
+                "n": "GAME_OBJECTIVE_MISSION",
+                "s": "משימה"
+            },
+            {
+                "n": "GAME_OBJECTIVE_MISSION_OBJECTIVE",
+                "s": "מטרת המשימה"
+            },
+            {
+                "n": "GAME_OBJECTIVE_MISSION_OBJECTIVE_PLURAL",
+                "s": "מטרות המשימה"
+            },
+            {
+                "n": "GAME_OBJECTIVE_MULTIPLIER",
+                "s": "מכפיל"
+            },
+            {
+                "n": "GAME_OBJECTIVE_PLURAL",
+                "s": "מטרות"
+            },
+            {
+                "n": "GAME_OBJECTIVE_POSITION",
+                "s": "מיקום"
+            },
+            {
+                "n": "GAME_OBJECTIVE_RACE_LAP",
+                "s": "סיבוב"
+            },
+            {
+                "n": "GAME_OBJECTIVE_RACE_LAP_PLURAL",
+                "s": "סיבובים"
+            },
+            {
+                "n": "GAME_OBJECTIVE_ROUND",
+                "s": "סיבוב"
+            },
+            {
+                "n": "GAME_OBJECTIVE_SCORE",
+                "s": "ניקוד"
+            },
+            {
+                "n": "GAME_OBJECTIVE_TIME",
+                "s": "זמן שעבר"
+            },
+            {
+                "n": "GAME_OBJECTIVE_TIME_LEFT",
+                "s": "זמן שנותר"
+            },
+            {
+                "n": "GAME_OBJECTIVE_TOURNAMENT",
+                "s": "תחרות"
+            },
+            {
+                "n": "GAME_OBJECTIVE_TOURNAMENT_PLURAL",
+                "s": "תחרויות"
+            },
+            {
+                "n": "GAME_OBJECTIVE_WINS",
+                "s": "ניצחונות"
+            },
+            {
+                "n": "GAME_STATUS_DEFEAT",
+                "s": "תבוסה..."
+            },
+            {
+                "n": "GAME_STATUS_DEFEATED",
+                "s": "הובסת..."
+            },
+            {
+                "n": "GAME_STATUS_LOSER",
+                "s": "מפסיד"
+            },
+            {
+                "n": "GAME_STATUS_TEAM_LOST",
+                "s": "הקבוצה שלך הפסידה!"
+            },
+            {
+                "n": "GAME_STATUS_TEAM_WON",
+                "s": "הקבוצה שלך ניצחה!"
+            },
+            {
+                "n": "GAME_STATUS_VICTORY",
+                "s": "ניצחון!"
+            },
+            {
+                "n": "GAME_STATUS_WINNER",
+                "s": "מנצח"
+            },
+            {
+                "n": "GAME_STATUS_YOU_ARE_DEAD",
+                "s": "אתה מת."
+            },
+            {
+                "n": "GAME_STATUS_YOU_DIED",
+                "s": "נהרגת!"
+            },
+            {
+                "n": "GAME_STATUS_YOU_LOSE",
+                "s": "הפסדת..."
+            },
+            {
+                "n": "GAME_STATUS_YOU_LOST",
+                "s": "הפסדת..."
+            },
+            {
+                "n": "GAME_STATUS_YOU_WIN",
+                "s": "ניצחת!"
+            },
+            {
+                "n": "GAME_STATUS_YOU_WON",
+                "s": "ניצחת!"
+            },
+            {
+                "n": "MENU_CAMERA",
+                "s": "מצלמה"
+            },
+            {
+                "n": "MENU_CAMERA_INVERTED",
+                "s": "מצלמה הפוכה"
+            },
+            {
+                "n": "MENU_CAMERA_NORMAL",
+                "s": "מצלמה רגילה"
+            },
+            {
+                "n": "MENU_CAMERA_XAXIS",
+                "s": "מאפייני ציר-אופקי (מצלמה)"
+            },
+            {
+                "n": "MENU_CAMERA_YAXIS",
+                "s": "מאפייני ציר-אנכי (מצלמה)"
+            },
+            {
+                "n": "MENU_CONTROLS_BUTTON",
+                "s": "כפתור"
+            },
+            {
+                "n": "MENU_CONTROLS_CLICK",
+                "s": "לחץ"
+            },
+            {
+                "n": "MENU_CONTROLS_DEADZONE",
+                "s": "שטח-מת"
+            },
+            {
+                "n": "MENU_CONTROLS_DOUBLE_CLICK",
+                "s": "לחיצה כפולה"
+            },
+            {
+                "n": "MENU_CONTROLS_DRAG",
+                "s": "משוך"
+            },
+            {
+                "n": "MENU_CONTROLS_DRAG_DROP",
+                "s": "משוך ושחרר"
+            },
+            {
+                "n": "MENU_CONTROLS_FINGER",
+                "s": "אצבע"
+            },
+            {
+                "n": "MENU_CONTROLS_GAMEPAD",
+                "s": "ג'ויסטיק"
+            },
+            {
+                "n": "MENU_CONTROLS_GYROSCOPE",
+                "s": "ג'ירוסקופ"
+            },
+            {
+                "n": "MENU_CONTROLS_KEY",
+                "s": "מקש"
+            },
+            {
+                "n": "MENU_CONTROLS_KEYBOARD",
+                "s": "מקלדת"
+            },
+            {
+                "n": "MENU_CONTROLS_MOUSE",
+                "s": "עכבר"
+            },
+            {
+                "n": "MENU_CONTROLS_MOUSE_SENSITIVITY",
+                "s": "רגישות עכבר"
+            },
+            {
+                "n": "MENU_CONTROLS_PINCH",
+                "s": "צבוט"
+            },
+            {
+                "n": "MENU_CONTROLS_ROTATE",
+                "s": "סובב"
+            },
+            {
+                "n": "MENU_CONTROLS_SCROLL",
+                "s": "גלול"
+            },
+            {
+                "n": "MENU_CONTROLS_SHAKE",
+                "s": "שקשק"
+            },
+            {
+                "n": "MENU_CONTROLS_SPREAD",
+                "s": "פרוס"
+            },
+            {
+                "n": "MENU_CONTROLS_SWIPE",
+                "s": "החלק"
+            },
+            {
+                "n": "MENU_CONTROLS_TAP",
+                "s": "גע"
+            },
+            {
+                "n": "MENU_CONTROLS_THE_BUTTON",
+                "s": "הכפתור"
+            },
+            {
+                "n": "MENU_CONTROLS_THE_KEY",
+                "s": "המקש"
+            },
+            {
+                "n": "MENU_CONTROLS_TILT",
+                "s": "הטה"
+            },
+            {
+                "n": "MENU_CUSTOMIZE_ARM",
+                "s": "זרוע"
+            },
+            {
+                "n": "MENU_CUSTOMIZE_ARM_PLURAL",
+                "s": "זרועות"
+            },
+            {
+                "n": "MENU_CUSTOMIZE_CHEST",
+                "s": "חזה"
+            },
+            {
+                "n": "MENU_CUSTOMIZE_CHIN",
+                "s": "סנטר"
+            },
+            {
+                "n": "MENU_CUSTOMIZE_COLOR",
+                "s": "צבע"
+            },
+            {
+                "n": "MENU_CUSTOMIZE_EAR",
+                "s": "אוזן"
+            },
+            {
+                "n": "MENU_CUSTOMIZE_EAR_PLURAL",
+                "s": "אוזניים"
+            },
+            {
+                "n": "MENU_CUSTOMIZE_EYE",
+                "s": "עין"
+            },
+            {
+                "n": "MENU_CUSTOMIZE_EYE_PLURAL",
+                "s": "עיניים"
+            },
+            {
+                "n": "MENU_CUSTOMIZE_FEET",
+                "s": "כפות רגליים"
+            },
+            {
+                "n": "MENU_CUSTOMIZE_FOOT",
+                "s": "כף רגל"
+            },
+            {
+                "n": "MENU_CUSTOMIZE_HAIR",
+                "s": "שיער"
+            },
+            {
+                "n": "MENU_CUSTOMIZE_HAIR_BEARD",
+                "s": "זקן"
+            },
+            {
+                "n": "MENU_CUSTOMIZE_HAIR_FUR",
+                "s": "פרווה"
+            },
+            {
+                "n": "MENU_CUSTOMIZE_HAIR_HEAD",
+                "s": "שיער"
+            },
+            {
+                "n": "MENU_CUSTOMIZE_HAND",
+                "s": "יד"
+            },
+            {
+                "n": "MENU_CUSTOMIZE_HAND_PLURAL",
+                "s": "ידיים"
+            },
+            {
+                "n": "MENU_CUSTOMIZE_HEAD",
+                "s": "ראש"
+            },
+            {
+                "n": "MENU_CUSTOMIZE_HIPS",
+                "s": "מותניים"
+            },
+            {
+                "n": "MENU_CUSTOMIZE_LEG",
+                "s": "רגל"
+            },
+            {
+                "n": "MENU_CUSTOMIZE_LEG_PLURAL",
+                "s": "רגליים"
+            },
+            {
+                "n": "MENU_CUSTOMIZE_MOUTH",
+                "s": "פה"
+            },
+            {
+                "n": "MENU_CUSTOMIZE_NECK",
+                "s": "צוואר"
+            },
+            {
+                "n": "MENU_CUSTOMIZE_NOSE",
+                "s": "אף"
+            },
+            {
+                "n": "MENU_CUSTOMIZE_SKIN",
+                "s": "עור"
+            },
+            {
+                "n": "MENU_CUSTOMIZE_THORAX",
+                "s": "חזה"
+            },
+            {
+                "n": "MENU_DIFFICULTY",
+                "s": "רמת קושי"
+            },
+            {
+                "n": "MENU_DIFFICULTY_EASY",
+                "s": "קל"
+            },
+            {
+                "n": "MENU_DIFFICULTY_HARD",
+                "s": "קשה"
+            },
+            {
+                "n": "MENU_DIFFICULTY_IMPOSSIBLE",
+                "s": "בלתי אפשרי"
+            },
+            {
+                "n": "MENU_DIFFICULTY_INSANE",
+                "s": "מטורף"
+            },
+            {
+                "n": "MENU_DIFFICULTY_MEDIUM",
+                "s": "בינוני"
+            },
+            {
+                "n": "MENU_DIFFICULTY_VERY_EASY",
+                "s": "קל מאוד"
+            },
+            {
+                "n": "MENU_DIFFICULTY_VERY_HARD",
+                "s": "קשה במיוחד"
+            },
+            {
+                "n": "MENU_DIR_DOWN",
+                "s": "למטה"
+            },
+            {
+                "n": "MENU_DIR_LEFT",
+                "s": "שמאלה"
+            },
+            {
+                "n": "MENU_DIR_RIGHT",
+                "s": "ימינה"
+            },
+            {
+                "n": "MENU_DIR_UP",
+                "s": "למעלה"
+            },
+            {
+                "n": "MENU_IO_LOAD",
+                "s": "טען"
+            },
+            {
+                "n": "MENU_IO_LOAD_GAME",
+                "s": "טען משחק שמור"
+            },
+            {
+                "n": "MENU_IO_LOADING",
+                "s": "טוען..."
+            },
+            {
+                "n": "MENU_IO_PLEASE_WAIT",
+                "s": "אנא המתן"
+            },
+            {
+                "n": "MENU_IO_RESET_SAVE_DATA",
+                "s": "אפס נתונים שמורים?"
+            },
+            {
+                "n": "MENU_IO_SAVE",
+                "s": "שמור"
+            },
+            {
+                "n": "MENU_IO_SAVE_DATA",
+                "s": "שמור נתונים"
+            },
+            {
+                "n": "MENU_IO_SAVE_GAME",
+                "s": "שמור משחק"
+            },
+            {
+                "n": "MENU_IO_SAVING",
+                "s": "שומר..."
+            },
+            {
+                "n": "MENU_LABEL_AGE",
+                "s": "גיל"
+            },
+            {
+                "n": "MENU_LABEL_ALL",
+                "s": "הכל"
+            },
+            {
+                "n": "MENU_LABEL_ARE_YOU_REALLY_SURE",
+                "s": "באמת באמת בטוח?"
+            },
+            {
+                "n": "MENU_LABEL_ARE_YOU_SURE",
+                "s": "אתה בטוח?"
+            },
+            {
+                "n": "MENU_LABEL_BACK",
+                "s": "חזרה"
+            },
+            {
+                "n": "MENU_LABEL_BACKGROUND_MUSIC",
+                "s": "עוצמת מוזיקת רקע"
+            },
+            {
+                "n": "MENU_LABEL_CANCEL",
+                "s": "ביטול"
+            },
+            {
+                "n": "MENU_LABEL_CLOSE",
+                "s": "סגור"
+            },
+            {
+                "n": "MENU_LABEL_CONFIRM_BUTTON",
+                "s": "אשר"
+            },
+            {
+                "n": "MENU_LABEL_CONTINUE",
+                "s": "המשך"
+            },
+            {
+                "n": "MENU_LABEL_CONTINUE_QUESTION",
+                "s": "להמשיך?"
+            },
+            {
+                "n": "MENU_LABEL_CREDITS",
+                "s": "תודות"
+            },
+            {
+                "n": "MENU_LABEL_DESKTOP",
+                "s": "יציאה לשולחן העבודה"
+            },
+            {
+                "n": "MENU_LABEL_DESKTOP_QUESTION",
+                "s": "לצאת לשולחן העבודה?"
+            },
+            {
+                "n": "MENU_LABEL_DLC",
+                "s": "הרחבה"
+            },
+            {
+                "n": "MENU_LABEL_DOWNLOAD",
+                "s": "הורד"
+            },
+            {
+                "n": "MENU_LABEL_DOWNLOADABLE",
+                "s": "תוכן נוסף"
+            },
+            {
+                "n": "MENU_LABEL_EXIT",
+                "s": "יציאה"
+            },
+            {
+                "n": "MENU_LABEL_EXIT_QUESTION",
+                "s": "לצאת?"
+            },
+            {
+                "n": "MENU_LABEL_EXTRAS",
+                "s": "תוכן נוסף"
+            },
+            {
+                "n": "MENU_LABEL_FRAMESPERSEC",
+                "s": "FPS"
+            },
+            {
+                "n": "MENU_LABEL_GALLERY",
+                "s": "גלריה"
+            },
+            {
+                "n": "MENU_LABEL_GOODBYE",
+                "s": "להתראות!"
+            },
+            {
+                "n": "MENU_LABEL_GRAPHICS",
+                "s": "גרפיקה"
+            },
+            {
+                "n": "MENU_LABEL_IAP",
+                "s": "IAP"
+            },
+            {
+                "n": "MENU_LABEL_LANGUAGE",
+                "s": "שפה"
+            },
+            {
+                "n": "MENU_LABEL_LEVEL",
+                "s": "שלב"
+            },
+            {
+                "n": "MENU_LABEL_MAIL",
+                "s": "דואר"
+            },
+            {
+                "n": "MENU_LABEL_MAINMENU",
+                "s": "מסך ראשי"
+            },
+            {
+                "n": "MENU_LABEL_MORE",
+                "s": "עוד"
+            },
+            {
+                "n": "MENU_LABEL_MUSIC",
+                "s": "מוזיקה"
+            },
+            {
+                "n": "MENU_LABEL_MUSIC_PLAYER",
+                "s": "נגן מוזיקה"
+            },
+            {
+                "n": "MENU_LABEL_NEW_GAME",
+                "s": "משחק חדש"
+            },
+            {
+                "n": "MENU_LABEL_NEXT",
+                "s": "הבא"
+            },
+            {
+                "n": "MENU_LABEL_NEXT_TRACK",
+                "s": "שיר הבא"
+            },
+            {
+                "n": "MENU_LABEL_NO",
+                "s": "לא"
+            },
+            {
+                "n": "MENU_LABEL_NO_CAPS",
+                "s": "לא"
+            },
+            {
+                "n": "MENU_LABEL_NOPE",
+                "s": "לא"
+            },
+            {
+                "n": "MENU_LABEL_OK",
+                "s": "טוב"
+            },
+            {
+                "n": "MENU_LABEL_PAUSE",
+                "s": "השהה"
+            },
+            {
+                "n": "MENU_LABEL_PAUSED",
+                "s": "מושהה"
+            },
+            {
+                "n": "MENU_LABEL_PLAY",
+                "s": "התחל"
+            },
+            {
+                "n": "MENU_LABEL_PLAY_AGAIN",
+                "s": "התחל מחדש"
+            },
+            {
+                "n": "MENU_LABEL_PRESS_ANYKEY",
+                "s": "כדי להתחיל לחץ על אחד מהמקשים"
+            },
+            {
+                "n": "MENU_LABEL_PRESS_ANYKEY_CONTINUE",
+                "s": "כדי להמשיך לחץ על אחד מהמקשים"
+            },
+            {
+                "n": "MENU_LABEL_PRESS_START",
+                "s": "לחץ התחל"
+            },
+            {
+                "n": "MENU_LABEL_PRESS_START_CONTINUE",
+                "s": "כדי להמשיך לחץ התחל"
+            },
+            {
+                "n": "MENU_LABEL_PREVIOUS",
+                "s": "הקודם"
+            },
+            {
+                "n": "MENU_LABEL_PREVIOUS_TRACK",
+                "s": "שיר קודם"
+            },
+            {
+                "n": "MENU_LABEL_PRICE",
+                "s": "מחיר"
+            },
+            {
+                "n": "MENU_LABEL_PRICE_FREE",
+                "s": "חינם"
+            },
+            {
+                "n": "MENU_LABEL_PURCHASE",
+                "s": "קנה"
+            },
+            {
+                "n": "MENU_LABEL_QUIT",
+                "s": "הפסק"
+            },
+            {
+                "n": "MENU_LABEL_QUIT_CONFIRM",
+                "s": "אתה בטוח שאתה רוצה להפסיק?"
+            },
+            {
+                "n": "MENU_LABEL_QUIT_QUESTION",
+                "s": "להפסיק?"
+            },
+            {
+                "n": "MENU_LABEL_REPLAY",
+                "s": "הילוך-חוזר"
+            },
+            {
+                "n": "MENU_LABEL_RETURN",
+                "s": "חזור"
+            },
+            {
+                "n": "MENU_LABEL_RETURN_MAIN",
+                "s": "חזור למסך הראשי"
+            },
+            {
+                "n": "MENU_LABEL_RETURN_MAIN_QUESTION",
+                "s": "לחזור למסך הראשי?"
+            },
+            {
+                "n": "MENU_LABEL_SHARE",
+                "s": "שתף"
+            },
+            {
+                "n": "MENU_LABEL_SKIP",
+                "s": "דלג"
+            },
+            {
+                "n": "MENU_LABEL_SOUND",
+                "s": "קול"
+            },
+            {
+                "n": "MENU_LABEL_THANK_YOU",
+                "s": "תודה!"
+            },
+            {
+                "n": "MENU_LABEL_UNLOCK",
+                "s": "שחרר נעילה"
+            },
+            {
+                "n": "MENU_LABEL_VIDEO",
+                "s": "וידאו"
+            },
+            {
+                "n": "MENU_LABEL_VOICES",
+                "s": "קולות"
+            },
+            {
+                "n": "MENU_LABEL_WARNING",
+                "s": "אזהרה"
+            },
+            {
+                "n": "MENU_LABEL_WELCOME",
+                "s": "שלום"
+            },
+            {
+                "n": "MENU_LABEL_WORLD",
+                "s": "עולם"
+            },
+            {
+                "n": "MENU_LABEL_YEAH",
+                "s": "בסדר"
+            },
+            {
+                "n": "MENU_LABEL_YES",
+                "s": "כן"
+            },
+            {
+                "n": "MENU_LABEL_YES_CAPS",
+                "s": "כן"
+            },
+            {
+                "n": "MENU_LANGUAGE_DIRECTION",
+                "s": "rtl"
+            },
+            {
+                "n": "MENU_LANGUAGE_THIS",
+                "s": "עברית"
+            },
+            {
+                "n": "MENU_LANGUAGE_THIS_EN",
+                "s": "Hebrew"
+            },
+            {
+                "n": "MENU_LOGIN",
+                "s": "כניסה"
+            },
+            {
+                "n": "MENU_LOGIN_EMAIL",
+                "s": "כתובת-דואר"
+            },
+            {
+                "n": "MENU_LOGIN_FORGOT",
+                "s": "שכחת סיסמה?"
+            },
+            {
+                "n": "MENU_LOGIN_PASSWORD",
+                "s": "סיסמה"
+            },
+            {
+                "n": "MENU_LOGIN_REGISTER",
+                "s": "הירשם"
+            },
+            {
+                "n": "MENU_LOGIN_REMEMBER",
+                "s": "לזכור אותך לפעם הבאה?"
+            },
+            {
+                "n": "MENU_MODE_CHALLENGE",
+                "s": "אתגר"
+            },
+            {
+                "n": "MENU_MODE_CHALLENGE_MODE",
+                "s": "אתגר"
+            },
+            {
+                "n": "MENU_MODE_COOP",
+                "s": "שיתוף-פעולה"
+            },
+            {
+                "n": "MENU_MODE_COOPERATIVE",
+                "s": "שיתוף-פעולה"
+            },
+            {
+                "n": "MENU_MODE_DEATHMATCH",
+                "s": "כולם-נגד-כולם"
+            },
+            {
+                "n": "MENU_MODE_HELP",
+                "s": "עזרה"
+            },
+            {
+                "n": "MENU_MODE_INSTRUCTIONS",
+                "s": "הוראות"
+            },
+            {
+                "n": "MENU_MODE_MULTIPLAYER",
+                "s": "משחק מרובה-משתתפים"
+            },
+            {
+                "n": "MENU_MODE_MULTIPLAYER_LOCAL",
+                "s": "משחק רשת פנימי"
+            },
+            {
+                "n": "MENU_MODE_MULTIPLAYER_ONLINE",
+                "s": "משחק רשת חיצוני"
+            },
+            {
+                "n": "MENU_MODE_PLAY_ONLINE",
+                "s": "שחק באינטרנט"
+            },
+            {
+                "n": "MENU_MODE_SINGLEPLAYER",
+                "s": "שחקן יחיד"
+            },
+            {
+                "n": "MENU_MODE_TRAINING",
+                "s": "אימונים"
+            },
+            {
+                "n": "MENU_MODE_TUTORIAL",
+                "s": "מדריך"
+            },
+            {
+                "n": "MENU_MODE_VERSUS",
+                "s": "אחד-מול-השני"
+            },
+            {
+                "n": "MENU_NAME",
+                "s": "שם"
+            },
+            {
+                "n": "MENU_NAME_FIRST",
+                "s": "שם פרטי"
+            },
+            {
+                "n": "MENU_NAME_LAST",
+                "s": "שם משפחה"
+            },
+            {
+                "n": "MENU_NAME_USER",
+                "s": "שם משתמש"
+            },
+            {
+                "n": "MENU_OPTIONS",
+                "s": "אפשרויות"
+            },
+            {
+                "n": "MENU_OPTIONS_ADVANCEDGRAPHICS",
+                "s": "אפשרויות גרפיקה מתקדמות"
+            },
+            {
+                "n": "MENU_OPTIONS_ANTIALIASING",
+                "s": "Antialiasing"
+            },
+            {
+                "n": "MENU_OPTIONS_BLOOM",
+                "s": "האדרה"
+            },
+            {
+                "n": "MENU_OPTIONS_CONTROLS",
+                "s": "מקשים"
+            },
+            {
+                "n": "MENU_OPTIONS_DIFFICULTY",
+                "s": "אפשרויות רמת קושי"
+            },
+            {
+                "n": "MENU_OPTIONS_DISPLAY",
+                "s": "צג"
+            },
+            {
+                "n": "MENU_OPTIONS_EFFECT_DETAIL",
+                "s": "איכות אפקט"
+            },
+            {
+                "n": "MENU_OPTIONS_FILTERING_ANISOTROPIC",
+                "s": "Anisotropic"
+            },
+            {
+                "n": "MENU_OPTIONS_FILTERING_BILINEAR",
+                "s": "Bilinear"
+            },
+            {
+                "n": "MENU_OPTIONS_FILTERING_MODE",
+                "s": "Filtering mode"
+            },
+            {
+                "n": "MENU_OPTIONS_FILTERING_TRILINEAR",
+                "s": "Trilinear"
+            },
+            {
+                "n": "MENU_OPTIONS_FIRST_PERSON_VIEW",
+                "s": "גוף ראשון"
+            },
+            {
+                "n": "MENU_OPTIONS_FOV",
+                "s": "טווח-ראייה"
+            },
+            {
+                "n": "MENU_OPTIONS_FULLSCREEN",
+                "s": "מסך מלא"
+            },
+            {
+                "n": "MENU_OPTIONS_GAMEPLAY",
+                "s": "אפשרויות משחק"
+            },
+            {
+                "n": "MENU_OPTIONS_GRAPHICS",
+                "s": "אפשרויות גרפיקה"
+            },
+            {
+                "n": "MENU_OPTIONS_HUD",
+                "s": "תצוגת-על"
+            },
+            {
+                "n": "MENU_OPTIONS_MODEL_DETAIL",
+                "s": "כמות פרטים (דמות)"
+            },
+            {
+                "n": "MENU_OPTIONS_MULTICORE_RENDERING",
+                "s": "רינדור רב-ליבות"
+            },
+            {
+                "n": "MENU_OPTIONS_MUSIC_VOLUME",
+                "s": "עוצמת מוזיקה"
+            },
+            {
+                "n": "MENU_OPTIONS_NETWORK",
+                "s": "אפשרויות רשת"
+            },
+            {
+                "n": "MENU_OPTIONS_QUALITY",
+                "s": "איכות"
+            },
+            {
+                "n": "MENU_OPTIONS_RESOLUTION",
+                "s": "רזולוציה"
+            },
+            {
+                "n": "MENU_OPTIONS_SFX_VOLUME",
+                "s": "עוצמת אפקטים קוליים"
+            },
+            {
+                "n": "MENU_OPTIONS_SHADER_DETAIL",
+                "s": "איכות Shader"
+            },
+            {
+                "n": "MENU_OPTIONS_SHADOW",
+                "s": "צל"
+            },
+            {
+                "n": "MENU_OPTIONS_SHADOW_PLURAL",
+                "s": "צללים"
+            },
+            {
+                "n": "MENU_OPTIONS_SIZE",
+                "s": "גודל"
+            },
+            {
+                "n": "MENU_OPTIONS_SOUND",
+                "s": "אפשרויות קול"
+            },
+            {
+                "n": "MENU_OPTIONS_SOUND_VOLUME",
+                "s": "עוצמה"
+            },
+            {
+                "n": "MENU_OPTIONS_SPLITSCREEN",
+                "s": "מסך מפוצל"
+            },
+            {
+                "n": "MENU_OPTIONS_TEXTURE_DETAIL",
+                "s": "איכות טקסטורות"
+            },
+            {
+                "n": "MENU_OPTIONS_THIRD_PERSON_VIEW",
+                "s": "גוף שלישי"
+            },
+            {
+                "n": "MENU_OPTIONS_VIDEO",
+                "s": "אפשרויות וידאו"
+            },
+            {
+                "n": "MENU_OPTIONS_VIDEO_QUALITY",
+                "s": "איכות וידאו"
+            },
+            {
+                "n": "MENU_OPTIONS_VOICE_VOLUME",
+                "s": "עוצמת קולות"
+            },
+            {
+                "n": "MENU_OPTIONS_VSYNC",
+                "s": "Vsync"
+            },
+            {
+                "n": "MENU_OPTIONS_WIDESCREEN",
+                "s": "מסך רחב"
+            },
+            {
+                "n": "MENU_OPTIONS_WINDOWED",
+                "s": "חלון"
+            },
+            {
+                "n": "MENU_SETTING_HIGH",
+                "s": "גבוה"
+            },
+            {
+                "n": "MENU_SETTING_LOW",
+                "s": "נמוך"
+            },
+            {
+                "n": "MENU_SETTING_MEDIUM",
+                "s": "בינוני"
+            },
+            {
+                "n": "MENU_SETTING_ULTRA",
+                "s": "מקסימום"
+            },
+            {
+                "n": "MENU_SETTING_VERY_HIGH",
+                "s": "גבוה מאוד"
+            },
+            {
+                "n": "MENU_VERSION",
+                "s": "גרסה"
+            },
+            {
+                "n": "MENU_VERSION_DEMO",
+                "s": "דמו"
+            },
+            {
+                "n": "MENU_VERSION_FREE",
+                "s": "חינם"
+            },
+            {
+                "n": "MENU_VERSION_FULL",
+                "s": "מלא"
+            },
+            {
+                "n": "MENU_VERSION_LITE",
+                "s": "חלקי"
+            },
+            {
+                "n": "MENU_VERSION_PREMIUM",
+                "s": "חינם עם אפשרויות קנייה"
+            },
+            {
+                "n": "MENU_VERSION_SHAREWARE",
+                "s": "SHAREWARE"
+            },
+            {
+                "n": "MENU_VERSION_TRIAL",
+                "s": "ניסיון"
+            },
+            {
+                "n": "MENU_VR_COMFORT_MODE",
+                "s": "מציאות-מדומה נוחה"
+            },
+            {
+                "n": "MENU_VR_HMD_ORIENT_RESET",
+                "s": "HMD"
+            },
+            {
+                "n": "MENU_VR_VIRTUAL_REALITY",
+                "s": "מציאות-מדומה"
+            }
+        ]
+    }
+}
